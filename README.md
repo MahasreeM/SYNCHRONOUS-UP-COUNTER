@@ -61,4 +61,5 @@ endmodule
 ![image](https://github.com/user-attachments/assets/3ff52fe1-c318-413c-9f55-08fae4c5295b)
 
 **RESULTS**
+
 Thus the implemented  SYNCHRONOUS-UP-COUNTER was successfully verified.
